@@ -55,6 +55,6 @@ Power Management Options:
 - Wake on USB = Disabled
 
 ## Credits 
-ikip
+ikip  
 Opencore Dev Team  
 
