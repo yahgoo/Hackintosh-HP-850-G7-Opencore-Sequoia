@@ -2,12 +2,10 @@
 * Opencore EFI for HP 850 G7 running Sequoia
 
 ## Changes
-28112022
-- Updated to MacOS Ventura 13.1
-- Updated to OC 0.8.7 and latest kexts
+
 
 ## Working
-- Full graphics acceleration on Intel UHD620 iGPU
+- Full graphics acceleration on Intel UHD630 iGPU
 - Multi-display with DisplayPort OOB, VGA 
 - GigEthernet LAN connection
 - Wireless and bluetooth with any compatible card
@@ -17,17 +15,21 @@
 - Keyboard backlight (F5/F6)
 - Touchpad including tap-to-click, scrolling, mouse buttons (can be disable with prt scr key)
 
-![Screenshot]()
+## Not Working
+- Camera
+- Microphone
+- HDMI
+
+![Screenshot](https://github.com/yahgoo/Hackintosh-HP-850-G7-Opencore-Sequoia/blob/main/img/Sequoia%20running%20on%20HP850G7.png)
 
 # Specifications:
-* CPU: Intel Core i7-6600U
-* GPU: Intel HD Graphics HD 520
+* CPU: Intel i7-10510U (4) @ 1.80GHz
+* GPU: Intel HD Graphics HHD 630
 * Resolution: 1600x900
-* Audio: Sunrise Point-LP HD Audio
+* Audio: Intel Audio
 * Wi-Fi: BCM94360CS2
 * Bluetooth: Broadcom Bluetooth 4.0
 * Ethernet: Intel
-* Touchpad: Synaptics SMBus TouchPad
 * Card reader
 * Fingerprint: Synaptics Fingerprint Sensors
 
@@ -53,8 +55,6 @@ Power Management Options:
 - Wake on USB = Disabled
 
 ## Credits 
-OSXLatitude - Herve, Jake Lo  
-TonyMacx86 - Feartech  
-EliteMacx86 - EliteMacx86  
+ikip
 Opencore Dev Team  
 
