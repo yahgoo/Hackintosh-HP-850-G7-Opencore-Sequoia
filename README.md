@@ -1,0 +1,1 @@
+# Hackintosh-HP-850-G7-Opencore-Sequoia
