@@ -24,7 +24,7 @@
 
 # Specifications:
 * CPU: Intel i7-10510U (4) @ 1.80GHz
-* GPU: Intel HD Graphics HHD 630
+* GPU: Intel HD Graphics UHD 630
 * Resolution: 1600x900
 * Audio: Intel Audio
 * Wi-Fi: BCM94360CS2
