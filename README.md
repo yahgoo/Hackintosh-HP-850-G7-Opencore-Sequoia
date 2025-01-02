@@ -16,6 +16,7 @@
 - Touchpad including tap-to-click, scrolling, mouse buttons (can be disable with prt scr key)
 
 ## Not Working
+- Right USB A port. To fix via usb port mapping
 - Camera
 - Microphone
 - HDMI
