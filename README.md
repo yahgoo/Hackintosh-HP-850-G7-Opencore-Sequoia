@@ -6,7 +6,6 @@
 
 ## Working
 - Full graphics acceleration on Intel UHD630 iGPU
-- Multi-display with DisplayPort OOB, VGA 
 - GigEthernet LAN connection
 - Wireless and bluetooth with any compatible card
 - CPU power management
