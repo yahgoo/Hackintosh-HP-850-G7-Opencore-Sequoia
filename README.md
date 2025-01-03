@@ -18,7 +18,7 @@
 - Right USB A port. To fix via usb port mapping
 - Camera
 - Microphone
-- HDMI
+- HDMI2
 
 ![Screenshot](https://github.com/yahgoo/Hackintosh-HP-850-G7-Opencore-Sequoia/blob/main/img/Sequoia%20running%20on%20HP850G7.png)
 
