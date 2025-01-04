@@ -22,7 +22,7 @@
 	<string>1.0</string>
 	<key>IOKitPersonalities</key>
 	<dict>
-		<key>MacBookPro16,3-TXHC</key>
+		<key>MacBookPro16,4-TXHC</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
 			<string>com.apple.driver.AppleUSBMergeNub</string>
@@ -66,7 +66,7 @@
 					<key>SS02</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>3</integer>
+						<integer>9</integer>
 						<key>name</key>
 						<string>SS02</string>
 						<key>port</key>
@@ -77,9 +77,9 @@
 				</dict>
 			</dict>
 			<key>model</key>
-			<string>MacBookPro16,3</string>
+			<string>MacBookPro16,4</string>
 		</dict>
-		<key>MacBookPro16,3-XHC</key>
+		<key>MacBookPro16,4-XHC</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
 			<string>com.apple.driver.AppleUSBMergeNub</string>
@@ -178,7 +178,7 @@
 				</dict>
 			</dict>
 			<key>model</key>
-			<string>MacBookPro16,3</string>
+			<string>MacBookPro16,4</string>
 		</dict>
 	</dict>
 	<key>OSBundleRequired</key>

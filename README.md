@@ -2,7 +2,8 @@
 * Opencore EFI for HP 850 G7 running Sequoia
 
 ## Changes
-
+04012025  
+- fix all USB port via port mapping  
 
 ## Working
 - Full graphics acceleration on Intel UHD630 iGPU
@@ -15,7 +16,7 @@
 - Touchpad including tap-to-click, scrolling, mouse buttons (can be disable with prt scr key)
 
 ## Not Working
-- Right USB A port. To fix via usb port mapping
+- Bluetooth
 - Camera
 - Microphone
 - HDMI
