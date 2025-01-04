@@ -3,7 +3,7 @@
 
 ## Changes
 04012025  
-- fix all USB port via port mapping  
+- Fix all USB port via port mapping  
 
 ## Working
 - Full graphics acceleration on Intel UHD630 iGPU
