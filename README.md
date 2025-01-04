@@ -90,6 +90,7 @@ Click Yes to relaunch as root
 10. Reboot system and reset NVRAM
 
 ## Credits 
+perez987 aka 
 ikip  
 Opencore Dev Team  
 
